@@ -1,3 +1,3 @@
 # node-aws-s3-example
 
-An example of image upload using aws s3
+A project that shows how to upload images using AWS S3 cloud storage
